@@ -1,0 +1,44 @@
+/* #main {
+    /* height: 400px;
+    width: 50%; */
+    /* background-color: powderblue;
+    margin-top: 15%; */
+    /* margin-left:25%; */
+#main
+{
+    /* border:1px solid black; */
+    background-color:powderblue;
+    text-align: center;
+    width:30%; 
+    margin-top:15%;
+}
+#todoText
+{
+    margin-bottom:5%;
+    background-color: white;
+    width:75%;
+    margin-left:13%;
+    border-radius: 5px;
+
+}
+.no-outline:focus {
+    outline: none;
+  } 
+#textBox
+{
+    overflow-y: hidden;
+    padding-top:5%;
+    padding-bottom:3%;
+    border:none;
+    resize:none;
+}
+
+#calendar
+{
+    padding-top:3%;
+    padding-left:8%;
+}
+#trash
+{
+    width:50%;
+}
